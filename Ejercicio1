@@ -1,0 +1,16 @@
+public class Ejercicio_suma {
+    
+    public static int suma (int num1, int num2, int num3) {
+    
+    return num1 + num2 + num3;
+    }
+    
+    public static void main (String [] args) {
+        
+       int num1 = 3;
+       int num2 = 1;
+       int num3 = 8;
+       
+       suma (num1, num2, num3);
+    }
+}
